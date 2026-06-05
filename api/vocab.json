@@ -1,0 +1,3198 @@
+{
+  "vocabs": [
+    {
+      "id": 1,
+      "japanese": "食べます",
+      "hiragana": "たべます",
+      "romaji": "tabemasu",
+      "meaning": "ăn",
+      "groups": [
+        "N5",
+        "Động từ",
+        "Kanji",
+        "Bài 6"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 2,
+      "japanese": "飲みます",
+      "hiragana": "のみます",
+      "romaji": "nomimasu",
+      "meaning": "uống",
+      "groups": [
+        "N5",
+        "Động từ",
+        "Kanji",
+        "Bài 6"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 3,
+      "japanese": "吸います",
+      "hiragana": "すいます",
+      "romaji": "suimasu",
+      "meaning": "hút",
+      "groups": [
+        "N5",
+        "Động từ",
+        "Kanji",
+        "Bài 6"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 4,
+      "japanese": "見ます",
+      "hiragana": "みます",
+      "romaji": "mimasu",
+      "meaning": "nhìn",
+      "groups": [
+        "N5",
+        "Động từ",
+        "Kanji",
+        "Kanji",
+        "Bài 6"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 5,
+      "japanese": "聞きます",
+      "hiragana": "ききます",
+      "romaji": "kikimasu",
+      "meaning": "nghe",
+      "groups": [
+        "N5",
+        "Động từ",
+        "Kanji",
+        "Bài 6"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 6,
+      "japanese": "読みます",
+      "hiragana": "よみます",
+      "romaji": "yomimasu",
+      "meaning": "đọc",
+      "groups": [
+        "N5",
+        "Động từ",
+        "Kanji",
+        "Bài 6"
+      ],
+      "reviews": [
+        {
+          "date": 1768872115126,
+          "quality": 0,
+          "responseTime": 22268
+        }
+      ],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 7,
+      "japanese": "書きます",
+      "hiragana": "かきます",
+      "romaji": "kakimasu",
+      "meaning": "viết",
+      "groups": [
+        "N5",
+        "Động từ",
+        "Kanji",
+        "Bài 6"
+      ],
+      "reviews": [
+        {
+          "date": 1768872212295,
+          "quality": 0,
+          "responseTime": 54252
+        }
+      ],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 8,
+      "japanese": "買います",
+      "hiragana": "かいます",
+      "romaji": "kaimasu",
+      "meaning": "mua",
+      "groups": [
+        "N5",
+        "Động từ",
+        "Kanji",
+        "Bài 6"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 9,
+      "japanese": "撮ります",
+      "hiragana": "とります",
+      "romaji": "torimasu",
+      "meaning": "chụp",
+      "groups": [
+        "N5",
+        "Động từ",
+        "Kanji",
+        "Bài 6"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 10,
+      "japanese": "します",
+      "hiragana": "します",
+      "romaji": "shimasu",
+      "meaning": "làm",
+      "groups": [
+        "N5",
+        "Động từ",
+        "Hiragana",
+        "Bài 6"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 11,
+      "japanese": "会います",
+      "hiragana": "あいます",
+      "romaji": "aimasu",
+      "meaning": "gặp",
+      "groups": [
+        "N5",
+        "Động từ",
+        "Kanji",
+        "Bài 6"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 12,
+      "japanese": "ご飯",
+      "hiragana": "ごはん",
+      "romaji": "gohan",
+      "meaning": "cơm",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 13,
+      "japanese": "朝ご飯",
+      "hiragana": "あさごはん",
+      "romaji": "asagohan",
+      "meaning": "cơm sáng | bữa sáng",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Mix"
+      ],
+      "reviews": [
+        {
+          "date": 1768869557015,
+          "quality": 2,
+          "responseTime": 36076
+        }
+      ],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 14,
+      "japanese": "昼ご飯",
+      "hiragana": "ひるごはん",
+      "romaji": "hirugohan",
+      "meaning": "cơm trưa",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Mix"
+      ],
+      "reviews": [
+        {
+          "date": 1768869493638,
+          "quality": 2,
+          "responseTime": 23456
+        }
+      ],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 15,
+      "japanese": "晩ご飯",
+      "hiragana": "ばんごはん",
+      "romaji": "bangohan",
+      "meaning": "cơm tối",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Mix"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 16,
+      "japanese": "パン",
+      "hiragana": "ぱん",
+      "romaji": "pan",
+      "meaning": "bánh mì",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Katakana"
+      ],
+      "reviews": [
+        {
+          "date": 1768839731382,
+          "quality": 0,
+          "responseTime": 50325
+        }
+      ],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 17,
+      "japanese": "卵",
+      "hiragana": "たまご",
+      "romaji": "tamago",
+      "meaning": "trứng",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 18,
+      "japanese": "肉",
+      "hiragana": "にく",
+      "romaji": "niku",
+      "meaning": "thịt",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 19,
+      "japanese": "魚",
+      "hiragana": "さかな",
+      "romaji": "sakana",
+      "meaning": "cá",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 20,
+      "japanese": "野菜",
+      "hiragana": "やさい",
+      "romaji": "yasai",
+      "meaning": "rau",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 21,
+      "japanese": "果物",
+      "hiragana": "くだもの",
+      "romaji": "kudamono",
+      "meaning": "hoa quả",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 22,
+      "japanese": "水",
+      "hiragana": "みず",
+      "romaji": "mizu",
+      "meaning": "nước",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 23,
+      "japanese": "お茶",
+      "hiragana": "おちゃ",
+      "romaji": "ocha",
+      "meaning": "trà",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Mix"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 24,
+      "japanese": "紅茶",
+      "hiragana": "こうちゃ",
+      "romaji": "koucha",
+      "meaning": "hồng trà, trà đen",
+      "groups": [
+        "N5",
+        "Danh từ"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 25,
+      "japanese": "牛乳",
+      "hiragana": "ぎゅうにゅう",
+      "romaji": "gyuunyuu",
+      "meaning": "sữa bò",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 26,
+      "japanese": "ミルク",
+      "hiragana": "みるく",
+      "romaji": "miruku",
+      "meaning": "sữa",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Katakana"
+      ],
+      "reviews": [
+        {
+          "date": 1768839752987,
+          "quality": 3,
+          "responseTime": 5720
+        }
+      ],
+      "easinessFactor": 2.36,
+      "interval": 1,
+      "repetition": 1
+    },
+    {
+      "id": 27,
+      "japanese": "ジュース",
+      "hiragana": "じゅーす",
+      "romaji": "juusu",
+      "meaning": "nước hoa quả",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Katakana"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 28,
+      "japanese": "ビール",
+      "hiragana": "びーる",
+      "romaji": "biiru",
+      "meaning": "bia",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Katakana"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 29,
+      "japanese": "お酒",
+      "hiragana": "おさけ",
+      "romaji": "osake",
+      "meaning": "rượu",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Mix",
+        "Bài 3"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 30,
+      "japanese": "ビデオ",
+      "hiragana": "びでお",
+      "romaji": "bideo",
+      "meaning": "video",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Katakana"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 31,
+      "japanese": "映画",
+      "hiragana": "えいが",
+      "romaji": "eiga",
+      "meaning": "phim",
+      "groups": [
+        "N5",
+        "Danh từ"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 32,
+      "japanese": "CD",
+      "hiragana": "しーでぃー",
+      "romaji": "shii dii",
+      "meaning": "đĩa CD",
+      "groups": [
+        "N5",
+        "Danh từ"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 33,
+      "japanese": "手紙",
+      "hiragana": "てがみ",
+      "romaji": "tegami",
+      "meaning": "bức thư",
+      "groups": [
+        "N5",
+        "Danh từ"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 34,
+      "japanese": "レポート",
+      "hiragana": "れぽーと",
+      "romaji": "repooto",
+      "meaning": "báo cáo",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Katakana"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 35,
+      "japanese": "写真",
+      "hiragana": "しゃしん",
+      "romaji": "shashin",
+      "meaning": "bức ảnh",
+      "groups": [
+        "N5",
+        "Danh từ"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 36,
+      "japanese": "店",
+      "hiragana": "みせ",
+      "romaji": "mise",
+      "meaning": "cửa hàng, cửa tiệm",
+      "groups": [
+        "N5",
+        "Danh từ"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 37,
+      "japanese": "レストラン",
+      "hiragana": "れすとらん",
+      "romaji": "resutoran",
+      "meaning": "nhà hàng",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Katakana"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 38,
+      "japanese": "庭",
+      "hiragana": "にわ",
+      "romaji": "niwa",
+      "meaning": "vườn",
+      "groups": [
+        "N5",
+        "Danh từ"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 39,
+      "japanese": "宿題",
+      "hiragana": "しゅくだい",
+      "romaji": "shukudai",
+      "meaning": "bài tập",
+      "groups": [
+        "N5",
+        "Danh từ"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 40,
+      "japanese": "テニス",
+      "hiragana": "てにす",
+      "romaji": "tenisu",
+      "meaning": "quần vợt",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Katakana"
+      ],
+      "reviews": [
+        {
+          "date": 1768839679402,
+          "quality": 2,
+          "responseTime": 10451
+        }
+      ],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 41,
+      "japanese": "サッカー",
+      "hiragana": "さっかー",
+      "romaji": "sakkaa",
+      "meaning": "bóng đá",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Katakana"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 42,
+      "japanese": "お花見",
+      "hiragana": "おはなみ",
+      "romaji": "ohanami",
+      "meaning": "ngắm hoa",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Mix"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 43,
+      "japanese": "何",
+      "hiragana": "なに",
+      "romaji": "nani",
+      "meaning": "cái gì?",
+      "groups": [
+        "N5",
+        "Nghi vấn từ"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 44,
+      "japanese": "一緒に",
+      "hiragana": "いっしょに",
+      "romaji": "issho ni",
+      "meaning": "cùng nhau",
+      "groups": [
+        "N5",
+        "Phó từ",
+        "Mix"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 45,
+      "japanese": "ちょっと",
+      "hiragana": "ちょっと",
+      "romaji": "chotto",
+      "meaning": "một chút",
+      "groups": [
+        "N5",
+        "Phó từ"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 46,
+      "japanese": "いつも",
+      "hiragana": "いつも",
+      "romaji": "itsumo",
+      "meaning": "luôn luôn, lúc nào cũng",
+      "groups": [
+        "N5",
+        "Phó từ"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 47,
+      "japanese": "時々",
+      "hiragana": "ときどき",
+      "romaji": "tokidoki",
+      "meaning": "thỉnh thoảng",
+      "groups": [
+        "N5",
+        "Phó từ"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 48,
+      "japanese": "それから",
+      "hiragana": "それから",
+      "romaji": "sorekara",
+      "meaning": "từ đó",
+      "groups": [
+        "N5",
+        "Liên từ"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 49,
+      "japanese": "行きます",
+      "hiragana": "いきます",
+      "romaji": "ikimasu",
+      "meaning": "đi",
+      "groups": [
+        "N5",
+        "Động từ",
+        "Mix"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 50,
+      "japanese": "来ます",
+      "hiragana": "きます",
+      "romaji": "kimasu",
+      "meaning": "đến",
+      "groups": [
+        "N5",
+        "Động từ",
+        "Mix"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 51,
+      "japanese": "帰ります",
+      "hiragana": "かえります",
+      "romaji": "kaerimasu",
+      "meaning": "trở về",
+      "groups": [
+        "N5",
+        "Động từ",
+        "Mix"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 52,
+      "japanese": "学校",
+      "hiragana": "がっこう",
+      "romaji": "gakkou",
+      "meaning": "trường học",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 5"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 53,
+      "japanese": "スーパー",
+      "hiragana": "すーぱー",
+      "romaji": "suupaa",
+      "meaning": "siêu thị",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Katakana"
+      ],
+      "reviews": [
+        {
+          "date": 1768839746064,
+          "quality": 0,
+          "responseTime": 13221
+        }
+      ],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 54,
+      "japanese": "駅",
+      "hiragana": "えき",
+      "romaji": "eki",
+      "meaning": "nhà ga",
+      "groups": [
+        "N5",
+        "Danh từ"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 55,
+      "japanese": "飛行機",
+      "hiragana": "ひこうき",
+      "romaji": "hikouki",
+      "meaning": "máy bay",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 5"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 56,
+      "japanese": "船",
+      "hiragana": "ふね",
+      "romaji": "fune",
+      "meaning": "tàu",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 5"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 57,
+      "japanese": "電車",
+      "hiragana": "でんしゃ",
+      "romaji": "densha",
+      "meaning": "tàu điện",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 5"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 58,
+      "japanese": "地下鉄",
+      "hiragana": "ちかてつ",
+      "romaji": "chikatetsu",
+      "meaning": "tàu điện ngầm | tàu ngầm",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 5"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 59,
+      "japanese": "新幹線",
+      "hiragana": "しんかんせん",
+      "romaji": "shinkansen",
+      "meaning": "tàu siêu tốc",
+      "groups": [
+        "N5",
+        "Danh từ"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 60,
+      "japanese": "バス",
+      "hiragana": "ばす",
+      "romaji": "basu",
+      "meaning": "xe buýt | xe bus | bus",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Katakana",
+        "Bài 5"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 61,
+      "japanese": "タクシー",
+      "hiragana": "たくしー",
+      "romaji": "takushii",
+      "meaning": "taxi | xe taxi",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Katakana",
+        "Bài 5"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 62,
+      "japanese": "自転車",
+      "hiragana": "じてんしゃ",
+      "romaji": "jitensha",
+      "meaning": "xe đạp",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 5"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 63,
+      "japanese": "歩いて",
+      "hiragana": "あるいて",
+      "romaji": "aruite",
+      "meaning": "đi bộ",
+      "groups": [
+        "N5",
+        "Phó từ",
+        "Kanji",
+        "Bài 5"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 64,
+      "japanese": "人",
+      "hiragana": "ひと",
+      "romaji": "hito",
+      "meaning": "người",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 5"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 65,
+      "japanese": "友達",
+      "hiragana": "ともだち",
+      "romaji": "tomodachi",
+      "meaning": "bạn bè",
+      "groups": [
+        "N5",
+        "Danh từ"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 66,
+      "japanese": "彼",
+      "hiragana": "かれ",
+      "romaji": "kare",
+      "meaning": "anh ấy",
+      "groups": [
+        "N5",
+        "Đại từ",
+        "Kanji",
+        "Bài 5"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 67,
+      "japanese": "彼女",
+      "hiragana": "かのじょ",
+      "romaji": "kanojo",
+      "meaning": "cô ấy | ẻm | cổ",
+      "groups": [
+        "N5",
+        "Đại từ",
+        "Kanji",
+        "Bài 5"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 68,
+      "japanese": "家族",
+      "hiragana": "かぞく",
+      "romaji": "kazoku",
+      "meaning": "gia đình",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 5"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 69,
+      "japanese": "一人で",
+      "hiragana": "ひとりで",
+      "romaji": "hitori de",
+      "meaning": "một mình",
+      "groups": [
+        "N5",
+        "Phó từ",
+        "Kanji",
+        "Bài 5"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 70,
+      "japanese": "先週",
+      "hiragana": "せんしゅう",
+      "romaji": "senshuu",
+      "meaning": "tuần trước",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 5"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 71,
+      "japanese": "今週",
+      "hiragana": "こんしゅう",
+      "romaji": "konshuu",
+      "meaning": "tuần này",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 5"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 72,
+      "japanese": "来週",
+      "hiragana": "らいしゅう",
+      "romaji": "raishuu",
+      "meaning": "tuần sau",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 5"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 73,
+      "japanese": "先月",
+      "hiragana": "せんげつ",
+      "romaji": "sengetsu",
+      "meaning": "tháng trước",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 5"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 74,
+      "japanese": "今月",
+      "hiragana": "こんげつ",
+      "romaji": "kongetsu",
+      "meaning": "tháng này",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 5"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 75,
+      "japanese": "来月",
+      "hiragana": "らいげつ",
+      "romaji": "raigetsu",
+      "meaning": "tháng sau",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 5"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 76,
+      "japanese": "去年",
+      "hiragana": "きょねん",
+      "romaji": "kyonen",
+      "meaning": "năm ngoái | năm trước",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 5"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 77,
+      "japanese": "今年",
+      "hiragana": "ことし",
+      "romaji": "kotoshi",
+      "meaning": "năm nay",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 5"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 78,
+      "japanese": "来年",
+      "hiragana": "らいねん",
+      "romaji": "rainen",
+      "meaning": "năm sau",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 5"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 80,
+      "japanese": "何日",
+      "hiragana": "なんにち",
+      "romaji": "nannichi",
+      "meaning": "mấy ngày?",
+      "groups": [
+        "N5",
+        "Nghi vấn từ"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 81,
+      "japanese": "誕生日",
+      "hiragana": "たんじょうび",
+      "romaji": "tanjoubi",
+      "meaning": "ngày sinh nhật | sinh nhật",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 5"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 82,
+      "japanese": "普通",
+      "hiragana": "ふつう",
+      "romaji": "futsuu",
+      "meaning": "tàu thường",
+      "groups": [
+        "N5",
+        "Danh từ"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 83,
+      "japanese": "急行",
+      "hiragana": "きゅうこう",
+      "romaji": "kyuukou",
+      "meaning": "tàu tốc hành",
+      "groups": [
+        "N5",
+        "Danh từ"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 84,
+      "japanese": "特急",
+      "hiragana": "とっきゅう",
+      "romaji": "tokkyuu",
+      "meaning": "tàu tốc hành đặc biệt",
+      "groups": [
+        "N5",
+        "Danh từ"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 85,
+      "japanese": "次の",
+      "hiragana": "つぎの",
+      "romaji": "tsugi no",
+      "meaning": "tiếp theo",
+      "groups": [
+        "N5",
+        "Tính từ",
+        "Kanji",
+        "Bài 5"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 86,
+      "japanese": "起きます",
+      "hiragana": "おきます",
+      "romaji": "okimasu",
+      "meaning": "thức dậy",
+      "groups": [
+        "N5",
+        "Động từ",
+        "Kanji",
+        "Bài 4"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 87,
+      "japanese": "寝ます",
+      "hiragana": "ねます",
+      "romaji": "nemasu",
+      "meaning": "ngủ",
+      "groups": [
+        "N5",
+        "Động từ",
+        "Kanji",
+        "Bài 4"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 88,
+      "japanese": "働きます",
+      "hiragana": "はたらきます",
+      "romaji": "hatarakimasu",
+      "meaning": "làm việc",
+      "groups": [
+        "N5",
+        "Động từ",
+        "Kanji",
+        "Bài 4"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 89,
+      "japanese": "休みます",
+      "hiragana": "やすみます",
+      "romaji": "yasumimasu",
+      "meaning": "nghỉ ngơi",
+      "groups": [
+        "N5",
+        "Động từ",
+        "Kanji",
+        "Bài 4"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 90,
+      "japanese": "勉強します",
+      "hiragana": "べんきょうします",
+      "romaji": "benkyou shimasu",
+      "meaning": "học",
+      "groups": [
+        "N5",
+        "Động từ",
+        "Kanji",
+        "Bài 4"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 91,
+      "japanese": "終わります",
+      "hiragana": "おわります",
+      "romaji": "owarimasu",
+      "meaning": "kết thúc",
+      "groups": [
+        "N5",
+        "Động từ",
+        "Kanji",
+        "Bài 4"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 92,
+      "japanese": "デパート",
+      "hiragana": "でぱーと",
+      "romaji": "depaato",
+      "meaning": "tiệm bách hóa",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Katakana",
+        "Bài 4"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 93,
+      "japanese": "銀行",
+      "hiragana": "ぎんこう",
+      "romaji": "ginkou",
+      "meaning": "ngân hàng",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 4"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 94,
+      "japanese": "郵便局",
+      "hiragana": "ゆうびんきょく",
+      "romaji": "yuubinkyoku",
+      "meaning": "bưu điện | từ điển",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 4"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 95,
+      "japanese": "図書館",
+      "hiragana": "としょかん",
+      "romaji": "toshokan",
+      "meaning": "thư viện",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 4"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 96,
+      "japanese": "美術館",
+      "hiragana": "びじゅつかん",
+      "romaji": "bijutsukan",
+      "meaning": "bảo tàng mỹ thuật | bảo tàng",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 4"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 97,
+      "japanese": "今",
+      "hiragana": "いま",
+      "romaji": "ima",
+      "meaning": "bây giờ | hiện tại",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 4"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 98,
+      "japanese": "何時",
+      "hiragana": "なんじ",
+      "romaji": "nanji",
+      "meaning": "mấy giờ?",
+      "groups": [
+        "N5",
+        "Nghi vấn từ"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 99,
+      "japanese": "何分",
+      "hiragana": "なんぷん",
+      "romaji": "nanpun",
+      "meaning": "mấy phút?",
+      "groups": [
+        "N5",
+        "Nghi vấn từ"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 100,
+      "japanese": "午前",
+      "hiragana": "ごぜん",
+      "romaji": "gozen",
+      "meaning": "sáng",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 4"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 101,
+      "japanese": "午後",
+      "hiragana": "ごご",
+      "romaji": "gogo",
+      "meaning": "chiều",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 4"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 102,
+      "japanese": "朝",
+      "hiragana": "あさ",
+      "romaji": "asa",
+      "meaning": "buổi sáng",
+      "groups": [
+        "N5",
+        "Danh từ"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 103,
+      "japanese": "昼",
+      "hiragana": "ひる",
+      "romaji": "hiru",
+      "meaning": "buổi trưa",
+      "groups": [
+        "N5",
+        "Danh từ"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 104,
+      "japanese": "晩",
+      "hiragana": "ばん",
+      "romaji": "ban",
+      "meaning": "tối",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 4"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 105,
+      "japanese": "夜",
+      "hiragana": "よる",
+      "romaji": "yoru",
+      "meaning": "ban đêm",
+      "groups": [
+        "N5",
+        "Danh từ"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 106,
+      "japanese": "一昨日",
+      "hiragana": "おととい",
+      "romaji": "ototoi",
+      "meaning": "hôm kia",
+      "groups": [
+        "N5",
+        "Danh từ"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 107,
+      "japanese": "昨日",
+      "hiragana": "きのう",
+      "romaji": "kinou",
+      "meaning": "hôm qua",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 4"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 108,
+      "japanese": "今日",
+      "hiragana": "きょう",
+      "romaji": "kyou",
+      "meaning": "hôm nay",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 4"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 109,
+      "japanese": "明日",
+      "hiragana": "あした",
+      "romaji": "ashita",
+      "meaning": "ngày mai",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 4"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 110,
+      "japanese": "明後日",
+      "hiragana": "あさって",
+      "romaji": "asatte",
+      "meaning": "ngày kia | hôm kia",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 4"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 111,
+      "japanese": "今朝",
+      "hiragana": "けさ",
+      "romaji": "kesa",
+      "meaning": "sáng nay",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 4"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 112,
+      "japanese": "今晩",
+      "hiragana": "こんばん",
+      "romaji": "konban",
+      "meaning": "tối nay",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 4"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 113,
+      "japanese": "休み",
+      "hiragana": "やすみ",
+      "romaji": "yasumi",
+      "meaning": "ngày nghỉ",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 4"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 114,
+      "japanese": "昼休み",
+      "hiragana": "ひるやすみ",
+      "romaji": "hiruyasumi",
+      "meaning": "nghỉ trưa",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 4"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 115,
+      "japanese": "毎朝",
+      "hiragana": "まいあさ",
+      "romaji": "maiasa",
+      "meaning": "hằng sáng | mỗi sáng",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 4"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 116,
+      "japanese": "毎晩",
+      "hiragana": "まいばん",
+      "romaji": "maiban",
+      "meaning": "hằng tối | mỗi tối",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 4"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 117,
+      "japanese": "毎日",
+      "hiragana": "まいにち",
+      "romaji": "mainichi",
+      "meaning": "hằng ngày | mỗi ngày",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 4"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 118,
+      "japanese": "何曜日",
+      "hiragana": "なんようび",
+      "romaji": "nanyoubi",
+      "meaning": "thứ mấy?",
+      "groups": [
+        "N5",
+        "Nghi vấn từ"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 119,
+      "japanese": "月曜日",
+      "hiragana": "げつようび",
+      "romaji": "getsuyoubi",
+      "meaning": "thứ hai",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 4",
+        "Thứ ngày"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 120,
+      "japanese": "火曜日",
+      "hiragana": "かようび",
+      "romaji": "kayoubi",
+      "meaning": "thứ ba",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 4",
+        "Thứ ngày"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 121,
+      "japanese": "水曜日",
+      "hiragana": "すいようび",
+      "romaji": "suiyoubi",
+      "meaning": "thứ tư",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 4",
+        "Thứ ngày"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 122,
+      "japanese": "木曜日",
+      "hiragana": "もくようび",
+      "romaji": "mokuyoubi",
+      "meaning": "thứ năm",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 4",
+        "Thứ ngày"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 123,
+      "japanese": "金曜日",
+      "hiragana": "きんようび",
+      "romaji": "kinyoubi",
+      "meaning": "thứ sáu",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 4",
+        "Thứ ngày"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 124,
+      "japanese": "土曜日",
+      "hiragana": "どようび",
+      "romaji": "doyoubi",
+      "meaning": "thứ bảy",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 4",
+        "Thứ ngày"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 125,
+      "japanese": "番号",
+      "hiragana": "ばんごう",
+      "romaji": "bangou",
+      "meaning": "số",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 4"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 126,
+      "japanese": "何番",
+      "hiragana": "なんばん",
+      "romaji": "nanban",
+      "meaning": "số mấy?",
+      "groups": [
+        "N5",
+        "Nghi vấn từ"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 127,
+      "japanese": "ここ",
+      "hiragana": "ここ",
+      "romaji": "koko",
+      "meaning": "ở đây",
+      "groups": [
+        "N5",
+        "Đại từ chỉ địa điểm",
+        "Bài 3"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 128,
+      "japanese": "そこ",
+      "hiragana": "そこ",
+      "romaji": "soko",
+      "meaning": "ở đó | chỗ đó",
+      "groups": [
+        "N5",
+        "Đại từ chỉ địa điểm",
+        "Bài 3"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 129,
+      "japanese": "あそこ",
+      "hiragana": "あそこ",
+      "romaji": "asoko",
+      "meaning": "ở kia | chỗ kia",
+      "groups": [
+        "N5",
+        "Đại từ chỉ địa điểm",
+        "Bài 3"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 130,
+      "japanese": "どこ",
+      "hiragana": "どこ",
+      "romaji": "doko",
+      "meaning": "ở đâu?",
+      "groups": [
+        "N5",
+        "Nghi vấn từ",
+        "Bài 3"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 131,
+      "japanese": "こちら",
+      "hiragana": "こちら",
+      "romaji": "kochira",
+      "meaning": "đằng này",
+      "groups": [
+        "N5",
+        "Đại từ chỉ địa điểm",
+        "Bài 3"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 132,
+      "japanese": "そちら",
+      "hiragana": "そちら",
+      "romaji": "sochira",
+      "meaning": "hướng đó",
+      "groups": [
+        "N5",
+        "Đại từ chỉ địa điểm",
+        "Bài 3"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 133,
+      "japanese": "あちら",
+      "hiragana": "あちら",
+      "romaji": "achira",
+      "meaning": "ở hướng kia",
+      "groups": [
+        "N5",
+        "Đại từ chỉ địa điểm",
+        "Bài 3"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 134,
+      "japanese": "どちら",
+      "hiragana": "どちら",
+      "romaji": "dochira",
+      "meaning": "ở hướng nào?",
+      "groups": [
+        "N5",
+        "Nghi vấn từ"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 135,
+      "japanese": "教室",
+      "hiragana": "きょうしつ",
+      "romaji": "kyoushitsu",
+      "meaning": "phòng học",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Bài 3"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 136,
+      "japanese": "食堂",
+      "hiragana": "しょくどう",
+      "romaji": "shokudou",
+      "meaning": "nhà ăn | căn tin | phòng ăn",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Bài 3"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 137,
+      "japanese": "事務所",
+      "hiragana": "じむしょ",
+      "romaji": "jimusho",
+      "meaning": "phòng làm việc",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Bài 3"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 138,
+      "japanese": "会議室",
+      "hiragana": "かいぎしつ",
+      "romaji": "kaigishitsu",
+      "meaning": "phòng họp",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Bài 3"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 139,
+      "japanese": "受付",
+      "hiragana": "うけつけ",
+      "romaji": "uketsuke",
+      "meaning": "quầy lễ tân",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Bài 3"
+      ],
+      "reviews": [
+        {
+          "date": 1768869587674,
+          "quality": 0,
+          "responseTime": 28549
+        }
+      ],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 140,
+      "japanese": "ロビー",
+      "hiragana": "ろびー",
+      "romaji": "robii",
+      "meaning": "hành lang, đại sảnh",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Katakana",
+        "Bài 3"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 141,
+      "japanese": "部屋",
+      "hiragana": "へや",
+      "romaji": "heya",
+      "meaning": "phòng",
+      "groups": [
+        "N5",
+        "Danh từ"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 142,
+      "japanese": "トイレ",
+      "hiragana": "といれ",
+      "romaji": "toire",
+      "meaning": "nhà vệ sinh",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Katakana",
+        "Bài 3"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 143,
+      "japanese": "お手洗い",
+      "hiragana": "おてあらい",
+      "romaji": "otearai",
+      "meaning": "nhà vệ sinh",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Mix",
+        "Bài 3"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 144,
+      "japanese": "階段",
+      "hiragana": "かいだん",
+      "romaji": "kaidan",
+      "meaning": "cầu thang | thang bộ",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 3"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 145,
+      "japanese": "エレベーター",
+      "hiragana": "えれべーたー",
+      "romaji": "erebeetaa",
+      "meaning": "thang máy",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Katakana",
+        "Bài 3"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 146,
+      "japanese": "エスカレーター",
+      "hiragana": "えすかれーたー",
+      "romaji": "esukareetaa",
+      "meaning": "thang cuốn",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Katakana",
+        "Bài 3"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 147,
+      "japanese": "お国",
+      "hiragana": "おくに",
+      "romaji": "okuni",
+      "meaning": "quốc gia | đất nước",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Mix",
+        "Bài 3"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 148,
+      "japanese": "会社",
+      "hiragana": "かいしゃ",
+      "romaji": "kaisha",
+      "meaning": "công ty",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 3"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 149,
+      "japanese": "うち",
+      "hiragana": "うち",
+      "romaji": "uchi",
+      "meaning": "nhà",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Bài 3"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 150,
+      "japanese": "電話",
+      "hiragana": "でんわ",
+      "romaji": "denwa",
+      "meaning": "điện thoại",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 3"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 151,
+      "japanese": "靴",
+      "hiragana": "くつ",
+      "romaji": "kutsu",
+      "meaning": "đôi giày",
+      "groups": [
+        "N5",
+        "Danh từ"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 152,
+      "japanese": "ネクタイ",
+      "hiragana": "ねくたい",
+      "romaji": "nekutai",
+      "meaning": "cà vạt",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Katakana",
+        "Bài 3"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 153,
+      "japanese": "ワイン",
+      "hiragana": "わいん",
+      "romaji": "wain",
+      "meaning": "rượu vang",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Katakana",
+        "Bài 3"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 154,
+      "japanese": "たばこ",
+      "hiragana": "たばこ",
+      "romaji": "tabako",
+      "meaning": "thuốc lá",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Hiragana",
+        "Bài 3"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 155,
+      "japanese": "売り場",
+      "hiragana": "うりば",
+      "romaji": "uriba",
+      "meaning": "quầy bán",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 3"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 156,
+      "japanese": "地下",
+      "hiragana": "ちか",
+      "romaji": "chika",
+      "meaning": "tầng hầm",
+      "groups": [
+        "N5",
+        "Danh từ",
+        "Kanji",
+        "Bài 3"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 158,
+      "japanese": "百",
+      "hiragana": "ひゃく",
+      "romaji": "hyaku",
+      "meaning": "hàng trăm | trăm",
+      "groups": [
+        "N5",
+        "Số đếm",
+        "Kanji",
+        "Bài 3"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 159,
+      "japanese": "千",
+      "hiragana": "せん",
+      "romaji": "sen",
+      "meaning": "hàng nghìn",
+      "groups": [
+        "N5",
+        "Số đếm",
+        "Kanji",
+        "Bài 3"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 160,
+      "japanese": "万",
+      "hiragana": "まん",
+      "romaji": "man",
+      "meaning": "hàng vạn",
+      "groups": [
+        "N5",
+        "Số đếm"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 161,
+      "japanese": "勉強",
+      "hiragana": "べんきょう",
+      "romaji": "benkyou",
+      "meaning": "học tập",
+      "groups": [
+        "N5"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 162,
+      "japanese": "先生",
+      "hiragana": "せんせい",
+      "romaji": "sensei",
+      "meaning": "giáo viên",
+      "groups": [
+        "N5",
+        "Trường học",
+        "Kanji",
+        "Bài 1"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 161,
+      "japanese": "切ります",
+      "hiragana": "きります",
+      "romaji": "kirimasu",
+      "meaning": "cắt",
+      "groups": [
+        "N5",
+        "Bài 7",
+        "Động từ",
+        "Kanji"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 162,
+      "japanese": "送ります",
+      "hiragana": "おくります",
+      "romaji": "okurimasu",
+      "meaning": "gửi",
+      "groups": [
+        "N5",
+        "Bài 7",
+        "Động từ",
+        "Kanji"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 163,
+      "japanese": "あげます",
+      "hiragana": "あげます",
+      "romaji": "agemasu",
+      "meaning": "cho",
+      "groups": [
+        "N5",
+        "Bài 7",
+        "Động từ"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 164,
+      "japanese": "もらいます",
+      "hiragana": "もらいます",
+      "romaji": "moraimasu",
+      "meaning": "nhận",
+      "groups": [
+        "N5",
+        "Bài 7",
+        "Động từ"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 165,
+      "japanese": "貸します",
+      "hiragana": "かします",
+      "romaji": "kashimasu",
+      "meaning": "cho mượn",
+      "groups": [
+        "N5",
+        "Bài 7",
+        "Động từ",
+        "Kanji"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 166,
+      "japanese": "借ります",
+      "hiragana": "かります",
+      "romaji": "karimasu",
+      "meaning": "mượn",
+      "groups": [
+        "N5",
+        "Bài 7",
+        "Động từ",
+        "Kanji"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 167,
+      "japanese": "教えます",
+      "hiragana": "おしえます",
+      "romaji": "oshiemasu",
+      "meaning": "dạy",
+      "groups": [
+        "N5",
+        "Bài 7",
+        "Động từ",
+        "Kanji"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 168,
+      "japanese": "習います",
+      "hiragana": "ならいます",
+      "romaji": "naraimasu",
+      "meaning": "học",
+      "groups": [
+        "N5",
+        "Bài 7",
+        "Động từ",
+        "Kanji"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 169,
+      "japanese": "かけます",
+      "hiragana": "かけます",
+      "romaji": "kakemasu",
+      "meaning": "gọi (điện thoại)",
+      "groups": [
+        "N5",
+        "Bài 7",
+        "Động từ"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 170,
+      "japanese": "手",
+      "hiragana": "て",
+      "romaji": "te",
+      "meaning": "tay",
+      "groups": [
+        "N5",
+        "Bài 7",
+        "Danh từ",
+        "Kanji"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 171,
+      "japanese": "ナイフ",
+      "hiragana": "ないふ",
+      "romaji": "naifu",
+      "meaning": "dao",
+      "groups": [
+        "N5",
+        "Bài 7",
+        "Danh từ",
+        "Katakana"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 172,
+      "japanese": "フォーク",
+      "hiragana": "ふぉーく",
+      "romaji": "fooku",
+      "meaning": "nĩa",
+      "groups": [
+        "N5",
+        "Bài 7",
+        "Danh từ",
+        "Katakana"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 173,
+      "japanese": "はさみ",
+      "hiragana": "はさみ",
+      "romaji": "hasami",
+      "meaning": "kéo",
+      "groups": [
+        "N5",
+        "Bài 7",
+        "Danh từ"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 174,
+      "japanese": "ファクス",
+      "hiragana": "ふぁくす",
+      "romaji": "fakusu",
+      "meaning": "máy fax",
+      "groups": [
+        "N5",
+        "Bài 7",
+        "Danh từ",
+        "Katakana"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 175,
+      "japanese": "ワープロ",
+      "hiragana": "わーぷろ",
+      "romaji": "waapuro",
+      "meaning": "máy đánh chữ",
+      "groups": [
+        "N5",
+        "Bài 7",
+        "Danh từ",
+        "Katakana"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 176,
+      "japanese": "パソコン",
+      "hiragana": "ぱそこん",
+      "romaji": "pasokon",
+      "meaning": "máy tính cá nhân",
+      "groups": [
+        "N5",
+        "Bài 7",
+        "Danh từ",
+        "Katakana"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 177,
+      "japanese": "お金",
+      "hiragana": "おかね",
+      "romaji": "okane",
+      "meaning": "tiền",
+      "groups": [
+        "N5",
+        "Bài 7",
+        "Danh từ",
+        "Kanji"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 178,
+      "japanese": "きっぷ",
+      "hiragana": "きっぷ",
+      "romaji": "kippu",
+      "meaning": "vé",
+      "groups": [
+        "N5",
+        "Bài 7",
+        "Danh từ"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 179,
+      "japanese": "クリスマス",
+      "hiragana": "くりすます",
+      "romaji": "kurisumasu",
+      "meaning": "Giáng sinh",
+      "groups": [
+        "N5",
+        "Bài 7",
+        "Danh từ",
+        "Katakana"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 180,
+      "japanese": "父",
+      "hiragana": "ちち",
+      "romaji": "chichi",
+      "meaning": "bố (của mình)",
+      "groups": [
+        "N5",
+        "Bài 7",
+        "Danh từ",
+        "Kanji"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 181,
+      "japanese": "母",
+      "hiragana": "はは",
+      "romaji": "haha",
+      "meaning": "mẹ (của mình)",
+      "groups": [
+        "N5",
+        "Bài 7",
+        "Danh từ",
+        "Kanji"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 182,
+      "japanese": "お父さん",
+      "hiragana": "おとうさん",
+      "romaji": "otousan",
+      "meaning": "bố (người khác)",
+      "groups": [
+        "N5",
+        "Bài 7",
+        "Danh từ"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 183,
+      "japanese": "お母さん",
+      "hiragana": "おかあさん",
+      "romaji": "okaasan",
+      "meaning": "mẹ (người khác)",
+      "groups": [
+        "N5",
+        "Bài 7",
+        "Danh từ"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 184,
+      "japanese": "バレンタイン",
+      "hiragana": "ばれんたいん",
+      "romaji": "barentain",
+      "meaning": "Valentine",
+      "groups": [
+        "N5",
+        "Bài 7",
+        "Danh từ",
+        "Katakana"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 185,
+      "japanese": "ホワイトデー",
+      "hiragana": "ほわいとでー",
+      "romaji": "howaitodee",
+      "meaning": "White Day",
+      "groups": [
+        "N5",
+        "Bài 7",
+        "Danh từ",
+        "Katakana"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 186,
+      "japanese": "セロテープ",
+      "hiragana": "せろてーぷ",
+      "romaji": "seroteepu",
+      "meaning": "băng dính",
+      "groups": [
+        "N5",
+        "Bài 7",
+        "Danh từ",
+        "Katakana"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 187,
+      "japanese": "カード",
+      "hiragana": "かーど",
+      "romaji": "kaado",
+      "meaning": "thiệp",
+      "groups": [
+        "N5",
+        "Bài 7",
+        "Danh từ",
+        "Katakana"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 188,
+      "japanese": "花",
+      "hiragana": "はな",
+      "romaji": "hana",
+      "meaning": "hoa",
+      "groups": [
+        "N5",
+        "Bài 7",
+        "Danh từ",
+        "Kanji"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 189,
+      "japanese": "シャツ",
+      "hiragana": "しゃつ",
+      "romaji": "shatsu",
+      "meaning": "áo sơ mi",
+      "groups": [
+        "N5",
+        "Bài 7",
+        "Danh từ",
+        "Katakana"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 190,
+      "japanese": "プレゼント",
+      "hiragana": "ぷれぜんと",
+      "romaji": "purezento",
+      "meaning": "món quà",
+      "groups": [
+        "N5",
+        "Bài 7",
+        "Danh từ",
+        "Katakana"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    },
+    {
+      "id": 191,
+      "japanese": "子ども",
+      "hiragana": "こども",
+      "romaji": "kodomo",
+      "meaning": "trẻ em",
+      "groups": [
+        "N5",
+        "Bài 7",
+        "Danh từ",
+        "Kanji"
+      ],
+      "reviews": [],
+      "easinessFactor": 2.5,
+      "interval": 0,
+      "repetition": 0
+    }
+  ]
+}

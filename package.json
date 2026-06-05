@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "bcryptjs": "^3.0.3",
+    "concurrently": "^9.1.2",
+    "cors": "^2.8.6",
+    "dotenv": "^16.6.1",
+    "express": "^5.2.1",
+    "express-rate-limit": "^8.3.2",
+    "helmet": "^8.1.0",
+    "json-server": "^1.0.0-beta.3",
+    "jsonwebtoken": "^9.0.3",
+    "method-override": "^3.0.0",
+    "mongoose": "^8.15.1",
+    "nodemon": "^3.1.10",
+    "path": "^0.12.7"
+  },
+  "scripts": {
+    "exp": "nodemon express.js",
+    "db": "json-server --watch .//api/vocab.json --port 8888",
+    "dev": "concurrently \"npm run db \" \"npm run exp \""
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.6",
+    "@types/jsonwebtoken": "^9.0.10"
+  }
+}
