@@ -1,7 +1,7 @@
 const mongoose = require("mongoose")
 
 require('dotenv').config();
-const link = "mongodb://127.0.0.1:27017";
+const link = "mongodb+srv://nbinh0301:admin@mainserver.ez1m9pu.mongodb.net/?appName=MainServer";
 
 async function connect() {
 
